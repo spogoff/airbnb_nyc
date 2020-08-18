@@ -1,1 +1,2 @@
 nycairbnb_analysis.xlsx filter=lfs diff=lfs merge=lfs -text
+Airbnb[[:space:]]New[[:space:]]York[[:space:]]Invetment[[:space:]]Analysis.pdf filter=lfs diff=lfs merge=lfs -text
