@@ -26,19 +26,19 @@ Invest in a townhouse below 59th Street in Manhattan! To be more specific, here�
 
 ### Exploratory Data Analysis
 
-Airbnb Listings in New York's Boroughs
+#### Airbnb Listings in New York's Boroughs
 
 ![Piechart.png](https://github.com/spogoff/airbnb_nyc/blob/master/Assets/Piechart.png?raw=true)
 
-Neighborhood Scores Rating: Manhattan vs. Brooklyn
+#### Neighborhood Scores Rating: Manhattan vs. Brooklyn
 
 ![Barcharts.png](https://github.com/spogoff/airbnb_nyc/blob/master/Assets/Barcharts.png?raw=true)
 
-Review Scores and Estimated Total Revenue: A Weak Relationship
+#### Review Scores and Estimated Total Revenue: A Weak Relationship
 
 ![Scatterplot.png](https://github.com/spogoff/airbnb_nyc/blob/master/Assets/Scatterplot.png?raw=true)
 
-Top 5 Neighborhood groups in New York (based on estimated revenue)
+#### Top 5 Neighborhood groups in New York (based on estimated revenue)
 
 • Midtown, Theater District, Flatiron District
 • Chelsea, Clinton, Hell's Kitchen
@@ -49,12 +49,13 @@ Top 5 Neighborhood groups in New York (based on estimated revenue)
 
 ![top5neighborhoods.png](https://github.com/spogoff/airbnb_nyc/blob/master/Assets/top5neighborhoods.png?raw=true)
 
-Townhouses: Big Revenue, Little Competition 
+#### Townhouses: Big Revenue, Little Competition 
 
 ![Bubblechart.png](https://github.com/spogoff/airbnb_nyc/blob/master/Assets/Bubblechart.png?raw=true)
 
+#### How much revenue is a townhouse in one of the top 5 neighborhoods in NYC estimated to generate?
 
-
+![Revenue_barchart.png](https://github.com/spogoff/airbnb_nyc/blob/master/Assets/Revenue_barchart.png?raw=true)
 
 
 
