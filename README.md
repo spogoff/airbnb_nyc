@@ -17,3 +17,4 @@ Which neighborhoods receive the most positive reviews?
 • Aggregated to calculate estimated days with booking, estimated revenue per month and estimated total revenue
 • Grouped neighborhoods in all boroughs (close to official district boundaries defined by the city)
 
+![Manhattan_map](https://github.com/spogoff/airbnb_nyc/blob/master/Assets/Manhattan_map.png?raw=true)
