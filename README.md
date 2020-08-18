@@ -34,6 +34,10 @@ Neighborhood Scores Rating: Manhattan vs. Brooklyn
 
 ![Barcharts.png](https://github.com/spogoff/airbnb_nyc/blob/master/Assets/Barcharts.png?raw=true)
 
+Townhouses: Big Revenue, Little Competition 
+
+![Bubblechart.png](https://github.com/spogoff/airbnb_nyc/blob/master/Assets/Bubblechart.png?raw=true)
+
 Review Scores and Estimated Total Revenue: A Weak Relationship
 
 ![Scatterplot.png](https://github.com/spogoff/airbnb_nyc/blob/master/Assets/Scatterplot.png?raw=true)
