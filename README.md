@@ -1,12 +1,8 @@
-# airbnb_nyc
+# Airbnb Investment Analysis
 
-## Prompt: 
+## Prompt: Which neighborhood is best to invest in for an Airbnb rental in New York?
 
-Which neighborhood is best to invest in for an Airbnb rental in New York?
-
-## Subprompt:
-
-Which neighborhoods receive the most positive reviews?
+## Subprompt:Which neighborhoods receive the most positive reviews?
 
 ### Suggestion: 
 
@@ -57,7 +53,8 @@ Invest in a townhouse below 59th Street in Manhattan! To be more specific, hereâ
 
 ![Revenue_barchart.png](https://github.com/spogoff/airbnb_nyc/blob/master/Assets/Revenue_barchart.png?raw=true)
 
+## Technologies:
 
-
+â€¢ Excel
 
 
